@@ -1,0 +1,174 @@
+{
+    "teams": [
+        {
+            "id": 0,
+            "name": "RedBull Racing Honda",
+            "web": "https://redbullracing.redbull.com",
+            "base": "Milton Keynes, England, UK",
+            "polePosition": 70,
+            "receVictories": 72,
+            "constructorsChampions": 4,
+            "drivers": [
+                {
+                    "driversID": 0,
+                    "firstDriver": "Max Verstappen",
+                    "secondDriver": "Sergio Pérez",
+                    "testDriver": "Alex Albon"
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Scuderia Ferrari Mission Winnow",
+            "web": "https://www.ferrari.com/en-BA/formula1",
+            "base": "Maranello, Province of Modena, Italy",
+            "polePosition": 230,
+            "receVictories": 237,
+            "constructorsChampions": 16,
+            "drivers": [
+                {
+                    "driversID": 0,
+                    "firstDriver": "Charles Leclerc",
+                    "secondDriver": "Carlos Sainz Jr.",
+                    "testDriver": "Callum Ilott"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Mercedes-AMG Petronas F1 Team",
+            "web": "https://www.mercedesamgf1.com/en/",
+            "base": "Brackley, Northamptonshire, United Kingdom",
+            "polePosition": 130,
+            "receVictories": 119,
+            "constructorsChampions": 7,
+            "drivers": [
+                {
+                    "driversID": 0,
+                    "firstDriver": "Lewis Hamilton",
+                    "secondDriver": "Valtteri Bottas",
+                    "testDriver": "Stoffel Vandoorne"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "McLaren F1 Team",
+            "web": "https://www.mclaren.com/racing",
+            "base": "McLaren Technology Centre Woking, Surrey, England, UK",
+            "polePosition": 155,
+            "receVictories": 182,
+            "constructorsChampions": 8,
+            "drivers": [
+                {
+                    "driversID": 0,
+                    "firstDriver": "Lando Norris",
+                    "secondDriver": "Daniel Ricciardo",
+                    "testDriver": "Will Stevens"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Aston Martin Cognizant F1 Team",
+            "web": "https://www.astonmartinf1.com/en-GB/",
+            "base": "Silverstone, England, UK",
+            "polePosition": 0,
+            "receVictories": 0,
+            "constructorsChampions": 0,
+            "drivers": [
+                {
+                    "driversID": 0,
+                    "firstDriver": "Sebastian Vettel",
+                    "secondDriver": "Lance Stroll",
+                    "testDriver": "Nico Hülkenberg"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Williams Racing",
+            "web": "https://www.williamsf1.com",
+            "base": "Grove, Oxfordshire, England, UK",
+            "polePosition": 128,
+            "receVictories": 114,
+            "constructorsChampions": 9,
+            "drivers": [
+                {
+                    "driversID": 0,
+                    "firstDriver": "George Russell",
+                    "secondDriver": "Nicholas Latifi",
+                    "testDriver": "Roy Nissany"
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Scuderia AlphaTauri Honda",
+            "web": "https://www.scuderiaalphatauri.com/en/",
+            "base": "Faenza, Italy",
+            "polePosition": 0,
+            "receVictories": 1,
+            "constructorsChampions": 0,
+            "drivers": [
+                {
+                    "driversID": 0,
+                    "firstDriver": "Pierre Gasly",
+                    "secondDriver": "Yuki Tsunoda",
+                    "testDriver": "Alex Albon"
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Alfa Romeo Racing Orlen",
+            "web": "http://alfaromeo.com/alfa-romeo-racing",
+            "base": "Hinwil, Zürich, Switzerland",
+            "polePosition": 12,
+            "receVictories": 10,
+            "constructorsChampions": 0,
+            "drivers": [
+                {
+                    "driversID": 0,
+                    "firstDriver": "Kimi Räikkönen",
+                    "secondDriver": "Antonio Giovinazzi",
+                    "testDriver": "Robert Kubica"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Alpine F1 Team",
+            "web": "",
+            "base": "Enstone, Oxfordshire, England, UK",
+            "polePosition": 0,
+            "receVictories": 1,
+            "constructorsChampions": 0,
+            "drivers": [
+                {
+                    "driversID": 0,
+                    "firstDriver": "Fernando Alonso",
+                    "secondDriver": "Esteban Ocon",
+                    "testDriver": "Guanyu Zhou"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Uralkali Haas F1 Team",
+            "web": "https://www.haasf1team.com",
+            "base": "Kannapolis, North Carolina, United States",
+            "polePosition": 0,
+            "receVictories": 0,
+            "constructorsChampions": 0,
+            "drivers": [
+                {
+                    "driversID": 0,
+                    "firstDriver": "Mick Schumacher",
+                    "secondDriver": "Nikita Mazepin",
+                    "testDriver": "Pietro Fittipaldi"
+                }
+            ]
+        }
+    ]
+}
